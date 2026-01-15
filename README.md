@@ -14,7 +14,7 @@ A dual-mode Arduino-based pulse oximeter that measures Heart Rate (BPM) and Bloo
 | :--- | :--- | :--- |
 | MAX30102 / MAX30105 | 1 | Pulse Oximetry Sensor |
 | SSD1306 OLED | 1 | 128x64 I2C Display |
-| TTP223 | 1 | Capacitive Touch Sensor |
+| TTP223 | 1 | Touch Sensor |
 | ESP32 / Arduino | 1 | Microcontroller (Code pinout is for ESP32) |
 
 ## 🔌 Wiring Diagram
