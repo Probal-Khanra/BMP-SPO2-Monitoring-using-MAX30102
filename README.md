@@ -1,7 +1,5 @@
 # BMP-SPO2-Monitoring-using-MAX30102
 
-# MAX30102 Multi-Mode Health Monitor
-
 A dual-mode Arduino-based pulse oximeter that measures Heart Rate (BPM) and Blood Oxygen Saturation (SpO2). It features a touch-sensitive interface to toggle between modes and an OLED display for real-time feedback.
 
 ## 🚀 Features
